@@ -1,0 +1,61 @@
+site_name: LangGraph COURSE!
+site_url: https://jonhpark7966.github.io/LangGraph_Course/
+site_description: LangGraph의 사용법, 컨셉, 주요 기능을 소개합니다.
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: "teal"
+      accent: "teal"
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: "teal"
+      accent: "teal"
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  font:
+    text: "Noto Sans KR" # Change to your preferred Korean font
+    code: "Fira Code"
+
+  features:
+    - navigation.expand
+    - navigation.path
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.footer
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+nav:
+  - index.md
+  - Concept:
+      - "intros/Agent.md"
+  - Tutorial:
+      - "tutorial/1_langgraph_start.ipynb"
+      - "tutorial/2_langgraph_advanced_topics.ipynb"
+      - "tutorial/3_MultiAgent_research_assistant.ipynb"
+      - "tutorial/4_langgraph_adaptive_rag.ipynb"
+  - Practice:
+      - "tbd.md"
+
+plugins:
+  - glightbox
+  - search
+  - mkdocs-jupyter
