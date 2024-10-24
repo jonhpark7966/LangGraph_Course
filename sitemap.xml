@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://jonhpark7966.github.io/LangGraph_Course/project/Announcement/</loc>
+         <lastmod>2024-10-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://jonhpark7966.github.io/LangGraph_Course/tutorial/1_langgraph_start/</loc>
          <lastmod>2024-10-24</lastmod>
          <changefreq>daily</changefreq>
