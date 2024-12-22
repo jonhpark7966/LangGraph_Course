@@ -2,47 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jonhpark7966.github.io/LangGraph_Course/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2024-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jonhpark7966.github.io/LangGraph_Course/tbd/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2024-12-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jonhpark7966.github.io/LangGraph_Course/intros/Agent-by-anthropic/</loc>
+         <lastmod>2024-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jonhpark7966.github.io/LangGraph_Course/intros/Agent/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2024-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jonhpark7966.github.io/LangGraph_Course/intros/CommonAgenticPattern/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2024-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jonhpark7966.github.io/LangGraph_Course/project/Announcement/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2024-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jonhpark7966.github.io/LangGraph_Course/tutorial/1_langgraph_start/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2024-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jonhpark7966.github.io/LangGraph_Course/tutorial/2_langgraph_advanced_topics/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2024-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jonhpark7966.github.io/LangGraph_Course/tutorial/3_MultiAgent_research_assistant/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2024-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jonhpark7966.github.io/LangGraph_Course/tutorial/4_langgraph_adaptive_rag/</loc>
-         <lastmod>2024-12-20</lastmod>
+         <lastmod>2024-12-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
